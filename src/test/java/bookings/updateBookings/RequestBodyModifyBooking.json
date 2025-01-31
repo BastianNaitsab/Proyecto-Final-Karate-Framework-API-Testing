@@ -1,0 +1,11 @@
+{
+  "firstname" : "Sebas",
+  "lastname" : "Aristi",
+  "totalprice" : 1,
+  "depositpaid" : false,
+  "bookingdates" : {
+    "checkin" : "2025-02-05",
+    "checkout" : "2025-02-010"
+  },
+  "additionalneeds" : "Beach"
+}
